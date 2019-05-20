@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import "../components/Header.css"
+import "../components/header.css"
 import { genericHashLink } from "react-router-hash-link"
 import { Helmet } from "react-helmet"
 
