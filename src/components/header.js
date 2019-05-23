@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import "../components/header.css"
 import { genericHashLink } from "react-router-hash-link"
 import { Helmet } from "react-helmet"
-
 const HashLink = props => genericHashLink(props, Link)
 
 class Header extends React.Component {
