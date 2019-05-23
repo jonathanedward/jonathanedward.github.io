@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/tools-team-site",
   siteMetadata: {
     title: `Tools Team SAP`,
     description: `We are The Tools Team, an
